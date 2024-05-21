@@ -3,6 +3,8 @@
 
 #
 Lucas Andrade GitHub Stats
+
+![Lucas Andrade GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasandradegs&show_icons=true&theme=dark)
  
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasandradegs&layout=donut" />
 

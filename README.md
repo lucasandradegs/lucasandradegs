@@ -4,9 +4,13 @@
 
 <h1>Lucas Andrade GitHub Stats</h1>
 
-![Lucas Andrade GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasandradegs&show_icons=true&bg_color=00000000&text_color=FFF)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasandradegs&layout=donut&bg_color=00000000&text_color=FFF" />
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasandradegs&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasandradegs&layout=donut&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=FFF&hide_border=true" />
+ 
 
+<h3>Minhas contribuições no GitHub</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucasandradegs&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 
 ###### <h2>Tecnologias</h2>

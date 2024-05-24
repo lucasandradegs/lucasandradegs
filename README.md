@@ -19,7 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" height="80"/>
 
-![snake gif](https://github.com/lucasandradegs/lucasandradegs/blob/output/snake.svg)
+
 
 
 <!--
